@@ -1,0 +1,27 @@
+hr {
+    width: 250px;
+    border-top: 4px solid #666;
+}
+
+.jumbotron {
+    background-image: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron img {
+    box-shadow: 1px 5px 15px 3px black;
+}
+
+.jumbotron h1, .jumbotron p {
+    color: white;
+    text-shadow: 5px 5px 15px black;
+}
+
+section {
+    min-height: 300px;
+}
+
+.portfolio a img {
+    height: 300px;
+}
